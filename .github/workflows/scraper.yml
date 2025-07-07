@@ -11,6 +11,11 @@ on:
   workflow_dispatch:
     # Allow manual triggering
 
+# Grant permissions to the workflow
+permissions:
+  contents: write
+  pull-requests: write
+
 # Add concurrency to prevent multiple jobs running simultaneously
 concurrency:
   group: scraper-job
