@@ -1,0 +1,30 @@
+{
+  "scraped_at": "2024-01-15T10:30:00Z",
+  "total_professors": 2186,
+  "professors": [
+    {
+      "name": "Dr. John Smith",
+      "department": "Computer Science",
+      "rating": 4.2,
+      "review_count": 45,
+      "url": "https://polyratings.com/professor/john-smith",
+      "scraped_at": "2024-01-15T10:30:00Z"
+    },
+    {
+      "name": "Dr. Sarah Johnson",
+      "department": "Mathematics",
+      "rating": 3.8,
+      "review_count": 32,
+      "url": "https://polyratings.com/professor/sarah-johnson",
+      "scraped_at": "2024-01-15T10:30:00Z"
+    },
+    {
+      "name": "Dr. Michael Brown",
+      "department": "Physics",
+      "rating": 4.5,
+      "review_count": 67,
+      "url": "https://polyratings.com/professor/michael-brown",
+      "scraped_at": "2024-01-15T10:30:00Z"
+    }
+  ]
+} 

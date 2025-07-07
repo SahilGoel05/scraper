@@ -1,0 +1,560 @@
+2025-07-06 16:58:21,454 - utils - INFO - Starting PolyRatings scraper...
+2025-07-06 16:58:21,454 - WDM - INFO - ====== WebDriver manager ======
+2025-07-06 16:58:21,611 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-06 16:58:21,661 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-06 16:58:21,691 - WDM - INFO - Driver [/Users/sahilgoel/.wdm/drivers/chromedriver/mac64/138.0.7204.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-06 16:58:28,793 - utils - INFO - Starting PolyRatings scraper...
+2025-07-06 16:58:30,837 - utils - INFO - Loaded https://polyratings.dev/search/name
+2025-07-06 16:58:34,866 - utils - INFO - Scrolled to 349900, attempts without change: 0
+2025-07-06 16:58:35,879 - utils - INFO - Scrolled to 349900, attempts without change: 1
+2025-07-06 16:58:36,894 - utils - INFO - Scrolled to 349900, attempts without change: 2
+2025-07-06 16:58:37,906 - utils - INFO - Scrolled to 349900, attempts without change: 3
+2025-07-06 16:58:38,919 - utils - INFO - Scrolled to 349900, attempts without change: 4
+2025-07-06 16:58:39,932 - utils - INFO - Scrolled to 349900, attempts without change: 5
+2025-07-06 16:58:40,946 - utils - INFO - Scrolled to 349900, attempts without change: 6
+2025-07-06 16:58:41,956 - utils - INFO - Scrolled to 349900, attempts without change: 7
+2025-07-06 16:58:42,967 - utils - INFO - Scrolled to 349900, attempts without change: 8
+2025-07-06 16:58:43,980 - utils - INFO - Scrolled to 349900, attempts without change: 9
+2025-07-06 16:58:44,994 - utils - INFO - Scrolled to 349900, attempts without change: 10
+2025-07-06 16:58:46,004 - utils - INFO - Scrolled to 349900, attempts without change: 11
+2025-07-06 16:58:47,014 - utils - INFO - Scrolled to 349900, attempts without change: 12
+2025-07-06 16:58:48,026 - utils - INFO - Scrolled to 349900, attempts without change: 13
+2025-07-06 16:58:49,034 - utils - INFO - Scrolled to 349900, attempts without change: 14
+2025-07-06 16:58:50,043 - utils - INFO - Scrolled to 349900, attempts without change: 15
+2025-07-06 16:58:51,057 - utils - INFO - Scrolled to 349900, attempts without change: 16
+2025-07-06 16:58:52,067 - utils - INFO - Scrolled to 349900, attempts without change: 17
+2025-07-06 16:58:53,079 - utils - INFO - Scrolled to 349900, attempts without change: 18
+2025-07-06 16:58:54,093 - utils - INFO - Scrolled to 349900, attempts without change: 19
+2025-07-06 16:58:55,106 - utils - INFO - Scrolled to 349900, attempts without change: 20
+2025-07-06 16:58:56,122 - utils - INFO - Scrolled to 349900, attempts without change: 21
+2025-07-06 16:58:57,139 - utils - INFO - Scrolled to 349900, attempts without change: 22
+2025-07-06 16:58:58,151 - utils - INFO - Scrolled to 349900, attempts without change: 23
+2025-07-06 16:58:59,161 - utils - INFO - Scrolled to 349900, attempts without change: 24
+2025-07-06 16:59:00,176 - utils - INFO - Scrolled to 349900, attempts without change: 25
+2025-07-06 16:59:01,188 - utils - INFO - Scrolled to 349900, attempts without change: 26
+2025-07-06 16:59:02,204 - utils - INFO - Scrolled to 349900, attempts without change: 27
+2025-07-06 16:59:03,218 - utils - INFO - Scrolled to 349900, attempts without change: 28
+2025-07-06 16:59:04,229 - utils - INFO - Scrolled to 349900, attempts without change: 29
+2025-07-06 16:59:05,244 - utils - INFO - Scrolled to 349900, attempts without change: 30
+2025-07-06 16:59:06,256 - utils - INFO - Scrolled to 349900, attempts without change: 31
+2025-07-06 16:59:07,267 - utils - INFO - Scrolled to 349900, attempts without change: 32
+2025-07-06 16:59:08,277 - utils - INFO - Scrolled to 349900, attempts without change: 33
+2025-07-06 16:59:09,282 - utils - INFO - Scrolled to 349900, attempts without change: 34
+2025-07-06 16:59:10,294 - utils - INFO - Scrolled to 349900, attempts without change: 35
+2025-07-06 16:59:11,305 - utils - INFO - Scrolled to 349900, attempts without change: 36
+2025-07-06 16:59:12,319 - utils - INFO - Scrolled to 349900, attempts without change: 37
+2025-07-06 16:59:13,333 - utils - INFO - Scrolled to 349900, attempts without change: 38
+2025-07-06 16:59:14,344 - utils - INFO - Scrolled to 349900, attempts without change: 39
+2025-07-06 16:59:15,354 - utils - INFO - Scrolled to 349900, attempts without change: 40
+2025-07-06 16:59:16,365 - utils - INFO - Scrolled to 349900, attempts without change: 41
+2025-07-06 16:59:17,377 - utils - INFO - Scrolled to 349900, attempts without change: 42
+2025-07-06 16:59:18,391 - utils - INFO - Scrolled to 349900, attempts without change: 43
+2025-07-06 16:59:19,406 - utils - INFO - Scrolled to 349900, attempts without change: 44
+2025-07-06 16:59:20,419 - utils - INFO - Scrolled to 349900, attempts without change: 45
+2025-07-06 16:59:21,427 - utils - INFO - Scrolled to 349900, attempts without change: 46
+2025-07-06 16:59:22,438 - utils - INFO - Scrolled to 349900, attempts without change: 47
+2025-07-06 16:59:23,449 - utils - INFO - Scrolled to 349900, attempts without change: 48
+2025-07-06 16:59:24,458 - utils - INFO - Scrolled to 349900, attempts without change: 49
+2025-07-06 16:59:25,467 - utils - INFO - Scrolled to 349900, attempts without change: 50
+2025-07-06 16:59:26,485 - utils - INFO - Scrolled to 349900, attempts without change: 51
+2025-07-06 16:59:27,498 - utils - INFO - Scrolled to 349900, attempts without change: 52
+2025-07-06 16:59:28,511 - utils - INFO - Scrolled to 349900, attempts without change: 53
+2025-07-06 16:59:29,523 - utils - INFO - Scrolled to 349900, attempts without change: 54
+2025-07-06 16:59:30,534 - utils - INFO - Scrolled to 349900, attempts without change: 55
+2025-07-06 16:59:31,550 - utils - INFO - Scrolled to 349900, attempts without change: 56
+2025-07-06 16:59:32,558 - utils - INFO - Scrolled to 349900, attempts without change: 57
+2025-07-06 16:59:33,568 - utils - INFO - Scrolled to 349900, attempts without change: 58
+2025-07-06 16:59:34,583 - utils - INFO - Scrolled to 349900, attempts without change: 59
+2025-07-06 16:59:35,597 - utils - INFO - Scrolled to 349900, attempts without change: 60
+2025-07-06 16:59:36,608 - utils - INFO - Scrolled to 349900, attempts without change: 61
+2025-07-06 16:59:37,618 - utils - INFO - Scrolled to 349900, attempts without change: 62
+2025-07-06 16:59:38,629 - utils - INFO - Scrolled to 349900, attempts without change: 63
+2025-07-06 16:59:39,640 - utils - INFO - Scrolled to 349900, attempts without change: 64
+2025-07-06 16:59:40,653 - utils - INFO - Scrolled to 349900, attempts without change: 65
+2025-07-06 16:59:41,664 - utils - INFO - Scrolled to 349900, attempts without change: 66
+2025-07-06 16:59:42,674 - utils - INFO - Scrolled to 349900, attempts without change: 67
+2025-07-06 16:59:43,688 - utils - INFO - Scrolled to 349900, attempts without change: 68
+2025-07-06 16:59:44,700 - utils - INFO - Scrolled to 349900, attempts without change: 69
+2025-07-06 16:59:45,712 - utils - INFO - Scrolled to 349900, attempts without change: 70
+2025-07-06 16:59:46,724 - utils - INFO - Scrolled to 349900, attempts without change: 71
+2025-07-06 16:59:47,736 - utils - INFO - Scrolled to 349900, attempts without change: 72
+2025-07-06 16:59:48,751 - utils - INFO - Scrolled to 349900, attempts without change: 73
+2025-07-06 16:59:49,766 - utils - INFO - Scrolled to 349900, attempts without change: 74
+2025-07-06 16:59:50,780 - utils - INFO - Scrolled to 349900, attempts without change: 75
+2025-07-06 16:59:51,795 - utils - INFO - Scrolled to 349900, attempts without change: 76
+2025-07-06 16:59:52,814 - utils - INFO - Scrolled to 349900, attempts without change: 77
+2025-07-06 16:59:53,837 - utils - INFO - Scrolled to 349900, attempts without change: 78
+2025-07-06 16:59:54,852 - utils - INFO - Scrolled to 349900, attempts without change: 79
+2025-07-06 16:59:55,870 - utils - INFO - Scrolled to 349900, attempts without change: 80
+2025-07-06 16:59:56,883 - utils - INFO - Scrolled to 349900, attempts without change: 81
+2025-07-06 16:59:57,896 - utils - INFO - Scrolled to 349900, attempts without change: 82
+2025-07-06 16:59:58,906 - utils - INFO - Scrolled to 349900, attempts without change: 83
+2025-07-06 16:59:59,918 - utils - INFO - Scrolled to 349900, attempts without change: 84
+2025-07-06 17:00:00,928 - utils - INFO - Scrolled to 349900, attempts without change: 85
+2025-07-06 17:00:01,940 - utils - INFO - Scrolled to 349900, attempts without change: 86
+2025-07-06 17:00:02,951 - utils - INFO - Scrolled to 349900, attempts without change: 87
+2025-07-06 17:00:03,965 - utils - INFO - Scrolled to 349900, attempts without change: 88
+2025-07-06 17:00:04,975 - utils - INFO - Scrolled to 349900, attempts without change: 89
+2025-07-06 17:00:05,983 - utils - INFO - Scrolled to 349900, attempts without change: 90
+2025-07-06 17:00:06,991 - utils - INFO - Scrolled to 349900, attempts without change: 91
+2025-07-06 17:00:08,003 - utils - INFO - Scrolled to 349900, attempts without change: 92
+2025-07-06 17:00:09,019 - utils - INFO - Scrolled to 349900, attempts without change: 93
+2025-07-06 17:00:10,036 - utils - INFO - Scrolled to 349900, attempts without change: 94
+2025-07-06 17:00:11,053 - utils - INFO - Scrolled to 349900, attempts without change: 95
+2025-07-06 17:00:12,065 - utils - INFO - Scrolled to 349900, attempts without change: 96
+2025-07-06 17:00:13,080 - utils - INFO - Scrolled to 349900, attempts without change: 97
+2025-07-06 17:00:14,095 - utils - INFO - Scrolled to 349900, attempts without change: 98
+2025-07-06 17:00:15,107 - utils - INFO - Scrolled to 349900, attempts without change: 99
+2025-07-06 17:00:16,119 - utils - INFO - Scrolled to 349900, attempts without change: 100
+2025-07-06 17:00:16,119 - utils - INFO - Finished scrolling. No more new content detected.
+2025-07-06 17:00:16,157 - utils - INFO - Extracted 11 raw professor cards from DOM.
+2025-07-06 17:00:16,270 - utils - INFO - Deduplicated to 11 unique professor cards.
+2025-07-06 17:00:16,285 - utils - INFO - Validated 11 professor entries.
+2025-07-06 17:00:16,287 - utils - INFO - Saved 11 professors to /Users/sahilgoel/Code/Personal/PolyRatings/polyratings/professors.json
+2025-07-06 17:03:46,125 - utils - INFO - Starting PolyRatings scraper...
+2025-07-06 17:03:47,333 - utils - INFO - Loaded https://polyratings.dev/search/name
+2025-07-06 17:03:50,347 - utils - INFO - Starting to scroll and collect professors...
+2025-07-06 17:03:50,380 - utils - INFO - Found 11 cards in DOM, total unique: 11
+2025-07-06 17:03:51,420 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:52,460 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:53,501 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:54,540 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:55,573 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:56,608 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:03:57,621 - utils - INFO - Stopping: No new professors found for 11 attempts
+2025-07-06 17:03:57,623 - utils - INFO - Finished scrolling. Collected 22 unique professors.
+2025-07-06 17:03:57,623 - utils - INFO - Extracted 22 raw professor cards from DOM.
+2025-07-06 17:03:57,702 - utils - INFO - Deduplicated to 22 unique professor cards.
+2025-07-06 17:03:57,725 - utils - INFO - Validated 22 professor entries.
+2025-07-06 17:03:57,727 - utils - INFO - Saved 22 professors to /Users/sahilgoel/Code/Personal/PolyRatings/polyratings/professors.json
+2025-07-06 17:05:48,479 - utils - INFO - Starting PolyRatings scraper...
+2025-07-06 17:05:49,954 - utils - INFO - Loaded https://polyratings.dev/search/name
+2025-07-06 17:05:54,968 - utils - INFO - Starting to scroll and collect professors...
+2025-07-06 17:05:55,003 - utils - INFO - Found 11 cards in DOM, total unique: 11
+2025-07-06 17:05:56,536 - utils - INFO - Page height increased to 349900
+2025-07-06 17:05:56,557 - utils - INFO - Found 11 cards in DOM, total unique: 22
+2025-07-06 17:05:57,115 - utils - INFO - Found 16 cards in DOM, total unique: 32
+2025-07-06 17:05:57,654 - utils - INFO - Found 16 cards in DOM, total unique: 37
+2025-07-06 17:05:58,192 - utils - INFO - Found 16 cards in DOM, total unique: 42
+2025-07-06 17:05:58,733 - utils - INFO - Found 16 cards in DOM, total unique: 47
+2025-07-06 17:06:00,273 - utils - INFO - Found 11 cards in DOM, total unique: 47
+2025-07-06 17:06:00,817 - utils - INFO - Found 16 cards in DOM, total unique: 57
+2025-07-06 17:06:01,359 - utils - INFO - Found 16 cards in DOM, total unique: 62
+2025-07-06 17:06:01,899 - utils - INFO - Found 16 cards in DOM, total unique: 67
+2025-07-06 17:06:02,439 - utils - INFO - Found 16 cards in DOM, total unique: 72
+2025-07-06 17:06:03,999 - utils - INFO - Found 11 cards in DOM, total unique: 72
+2025-07-06 17:06:04,541 - utils - INFO - Found 16 cards in DOM, total unique: 82
+2025-07-06 17:06:05,084 - utils - INFO - Found 16 cards in DOM, total unique: 87
+2025-07-06 17:06:05,630 - utils - INFO - Found 16 cards in DOM, total unique: 92
+2025-07-06 17:06:06,175 - utils - INFO - Found 16 cards in DOM, total unique: 97
+2025-07-06 17:06:07,739 - utils - INFO - Found 11 cards in DOM, total unique: 97
+2025-07-06 17:06:08,272 - utils - INFO - Found 16 cards in DOM, total unique: 107
+2025-07-06 17:06:08,822 - utils - INFO - Found 16 cards in DOM, total unique: 112
+2025-07-06 17:06:09,355 - utils - INFO - Found 16 cards in DOM, total unique: 117
+2025-07-06 17:06:09,897 - utils - INFO - Found 16 cards in DOM, total unique: 122
+2025-07-06 17:06:11,455 - utils - INFO - Found 11 cards in DOM, total unique: 122
+2025-07-06 17:06:12,024 - utils - INFO - Found 16 cards in DOM, total unique: 132
+2025-07-06 17:06:12,557 - utils - INFO - Found 16 cards in DOM, total unique: 137
+2025-07-06 17:06:13,099 - utils - INFO - Found 16 cards in DOM, total unique: 142
+2025-07-06 17:06:13,642 - utils - INFO - Found 16 cards in DOM, total unique: 147
+2025-07-06 17:06:15,192 - utils - INFO - Found 11 cards in DOM, total unique: 147
+2025-07-06 17:06:15,733 - utils - INFO - Found 16 cards in DOM, total unique: 157
+2025-07-06 17:06:16,274 - utils - INFO - Found 16 cards in DOM, total unique: 162
+2025-07-06 17:06:16,814 - utils - INFO - Found 16 cards in DOM, total unique: 167
+2025-07-06 17:06:17,358 - utils - INFO - Found 16 cards in DOM, total unique: 172
+2025-07-06 17:06:18,912 - utils - INFO - Found 11 cards in DOM, total unique: 172
+2025-07-06 17:06:19,450 - utils - INFO - Found 16 cards in DOM, total unique: 182
+2025-07-06 17:06:19,990 - utils - INFO - Found 16 cards in DOM, total unique: 187
+2025-07-06 17:06:20,534 - utils - INFO - Found 16 cards in DOM, total unique: 192
+2025-07-06 17:06:21,077 - utils - INFO - Found 16 cards in DOM, total unique: 197
+2025-07-06 17:06:22,639 - utils - INFO - Found 11 cards in DOM, total unique: 197
+2025-07-06 17:06:23,184 - utils - INFO - Found 16 cards in DOM, total unique: 207
+2025-07-06 17:06:23,732 - utils - INFO - Found 16 cards in DOM, total unique: 212
+2025-07-06 17:06:24,262 - utils - INFO - Found 16 cards in DOM, total unique: 217
+2025-07-06 17:06:24,800 - utils - INFO - Found 16 cards in DOM, total unique: 222
+2025-07-06 17:06:26,353 - utils - INFO - Found 11 cards in DOM, total unique: 222
+2025-07-06 17:06:26,891 - utils - INFO - Found 16 cards in DOM, total unique: 232
+2025-07-06 17:06:27,450 - utils - INFO - Found 16 cards in DOM, total unique: 237
+2025-07-06 17:06:27,989 - utils - INFO - Found 16 cards in DOM, total unique: 242
+2025-07-06 17:06:28,533 - utils - INFO - Found 16 cards in DOM, total unique: 247
+2025-07-06 17:06:30,081 - utils - INFO - Found 11 cards in DOM, total unique: 247
+2025-07-06 17:06:30,619 - utils - INFO - Found 16 cards in DOM, total unique: 257
+2025-07-06 17:06:31,149 - utils - INFO - Found 16 cards in DOM, total unique: 262
+2025-07-06 17:06:31,699 - utils - INFO - Found 16 cards in DOM, total unique: 267
+2025-07-06 17:06:32,246 - utils - INFO - Found 16 cards in DOM, total unique: 272
+2025-07-06 17:06:33,812 - utils - INFO - Found 11 cards in DOM, total unique: 272
+2025-07-06 17:06:34,346 - utils - INFO - Found 16 cards in DOM, total unique: 282
+2025-07-06 17:06:34,888 - utils - INFO - Found 16 cards in DOM, total unique: 287
+2025-07-06 17:06:35,523 - utils - INFO - Found 16 cards in DOM, total unique: 292
+2025-07-06 17:06:36,070 - utils - INFO - Found 16 cards in DOM, total unique: 297
+2025-07-06 17:06:37,622 - utils - INFO - Found 11 cards in DOM, total unique: 297
+2025-07-06 17:06:38,164 - utils - INFO - Found 16 cards in DOM, total unique: 307
+2025-07-06 17:06:38,700 - utils - INFO - Found 16 cards in DOM, total unique: 312
+2025-07-06 17:06:39,234 - utils - INFO - Found 16 cards in DOM, total unique: 317
+2025-07-06 17:06:39,774 - utils - INFO - Found 16 cards in DOM, total unique: 322
+2025-07-06 17:06:41,333 - utils - INFO - Found 11 cards in DOM, total unique: 322
+2025-07-06 17:06:41,877 - utils - INFO - Found 16 cards in DOM, total unique: 332
+2025-07-06 17:06:42,397 - utils - INFO - Stopping: Scrolled too far without finding new content
+2025-07-06 17:06:42,397 - utils - INFO - Finished scrolling. Collected 332 unique professors.
+2025-07-06 17:06:42,397 - utils - INFO - Extracted 332 raw professor cards from DOM.
+2025-07-06 17:06:42,477 - utils - INFO - Deduplicated to 332 unique professor cards.
+2025-07-06 17:06:42,817 - utils - INFO - Validated 332 professor entries.
+2025-07-06 17:06:42,829 - utils - INFO - Saved 332 professors to /Users/sahilgoel/Code/Personal/PolyRatings/polyratings/professors.json
+2025-07-06 17:35:50,714 - utils - INFO - Starting PolyRatings scraper...
+2025-07-06 17:35:52,208 - utils - INFO - Loaded https://polyratings.dev/search/name
+2025-07-06 17:35:57,222 - utils - INFO - Total scrollable height: 349884
+2025-07-06 17:35:57,410 - utils - INFO - Scrolled to 0, total unique professors: 11
+2025-07-06 17:35:59,218 - utils - INFO - Scrolled to 1000, total unique professors: 18
+2025-07-06 17:36:01,053 - utils - INFO - Scrolled to 2000, total unique professors: 24
+2025-07-06 17:36:02,861 - utils - INFO - Scrolled to 3000, total unique professors: 30
+2025-07-06 17:36:04,683 - utils - INFO - Scrolled to 4000, total unique professors: 36
+2025-07-06 17:36:06,515 - utils - INFO - Scrolled to 5000, total unique professors: 43
+2025-07-06 17:36:08,290 - utils - INFO - Scrolled to 6000, total unique professors: 49
+2025-07-06 17:36:10,193 - utils - INFO - Scrolled to 7000, total unique professors: 55
+2025-07-06 17:36:12,005 - utils - INFO - Scrolled to 8000, total unique professors: 61
+2025-07-06 17:36:13,868 - utils - INFO - Scrolled to 9000, total unique professors: 68
+2025-07-06 17:36:15,692 - utils - INFO - Scrolled to 10000, total unique professors: 74
+2025-07-06 17:36:17,766 - utils - INFO - Scrolled to 11000, total unique professors: 80
+2025-07-06 17:36:19,604 - utils - INFO - Scrolled to 12000, total unique professors: 86
+2025-07-06 17:36:21,478 - utils - INFO - Scrolled to 13000, total unique professors: 93
+2025-07-06 17:36:23,450 - utils - INFO - Scrolled to 14000, total unique professors: 99
+2025-07-06 17:36:25,330 - utils - INFO - Scrolled to 15000, total unique professors: 105
+2025-07-06 17:36:27,182 - utils - INFO - Scrolled to 16000, total unique professors: 111
+2025-07-06 17:36:29,035 - utils - INFO - Scrolled to 17000, total unique professors: 118
+2025-07-06 17:36:30,892 - utils - INFO - Scrolled to 18000, total unique professors: 124
+2025-07-06 17:36:32,722 - utils - INFO - Scrolled to 19000, total unique professors: 130
+2025-07-06 17:36:34,558 - utils - INFO - Scrolled to 20000, total unique professors: 136
+2025-07-06 17:36:36,405 - utils - INFO - Scrolled to 21000, total unique professors: 143
+2025-07-06 17:36:38,251 - utils - INFO - Scrolled to 22000, total unique professors: 149
+2025-07-06 17:36:40,095 - utils - INFO - Scrolled to 23000, total unique professors: 155
+2025-07-06 17:36:41,968 - utils - INFO - Scrolled to 24000, total unique professors: 161
+2025-07-06 17:36:43,828 - utils - INFO - Scrolled to 25000, total unique professors: 168
+2025-07-06 17:36:45,685 - utils - INFO - Scrolled to 26000, total unique professors: 174
+2025-07-06 17:36:47,519 - utils - INFO - Scrolled to 27000, total unique professors: 180
+2025-07-06 17:36:49,375 - utils - INFO - Scrolled to 28000, total unique professors: 186
+2025-07-06 17:36:51,362 - utils - INFO - Scrolled to 29000, total unique professors: 193
+2025-07-06 17:36:53,209 - utils - INFO - Scrolled to 30000, total unique professors: 199
+2025-07-06 17:36:55,036 - utils - INFO - Scrolled to 31000, total unique professors: 205
+2025-07-06 17:36:56,962 - utils - INFO - Scrolled to 32000, total unique professors: 211
+2025-07-06 17:36:58,807 - utils - INFO - Scrolled to 33000, total unique professors: 218
+2025-07-06 17:37:00,693 - utils - INFO - Scrolled to 34000, total unique professors: 224
+2025-07-06 17:37:02,602 - utils - INFO - Scrolled to 35000, total unique professors: 230
+2025-07-06 17:37:04,425 - utils - INFO - Scrolled to 36000, total unique professors: 236
+2025-07-06 17:37:06,285 - utils - INFO - Scrolled to 37000, total unique professors: 243
+2025-07-06 17:37:08,129 - utils - INFO - Scrolled to 38000, total unique professors: 249
+2025-07-06 17:37:09,983 - utils - INFO - Scrolled to 39000, total unique professors: 255
+2025-07-06 17:37:11,875 - utils - INFO - Scrolled to 40000, total unique professors: 261
+2025-07-06 17:37:13,747 - utils - INFO - Scrolled to 41000, total unique professors: 268
+2025-07-06 17:37:15,602 - utils - INFO - Scrolled to 42000, total unique professors: 274
+2025-07-06 17:37:17,517 - utils - INFO - Scrolled to 43000, total unique professors: 280
+2025-07-06 17:37:19,350 - utils - INFO - Scrolled to 44000, total unique professors: 286
+2025-07-06 17:37:21,201 - utils - INFO - Scrolled to 45000, total unique professors: 293
+2025-07-06 17:37:23,028 - utils - INFO - Scrolled to 46000, total unique professors: 299
+2025-07-06 17:37:24,889 - utils - INFO - Scrolled to 47000, total unique professors: 305
+2025-07-06 17:37:26,865 - utils - INFO - Scrolled to 48000, total unique professors: 311
+2025-07-06 17:37:28,751 - utils - INFO - Scrolled to 49000, total unique professors: 318
+2025-07-06 17:37:30,581 - utils - INFO - Scrolled to 50000, total unique professors: 324
+2025-07-06 17:37:32,410 - utils - INFO - Scrolled to 51000, total unique professors: 330
+2025-07-06 17:37:34,243 - utils - INFO - Scrolled to 52000, total unique professors: 336
+2025-07-06 17:37:36,140 - utils - INFO - Scrolled to 53000, total unique professors: 343
+2025-07-06 17:37:38,003 - utils - INFO - Scrolled to 54000, total unique professors: 349
+2025-07-06 17:37:39,825 - utils - INFO - Scrolled to 55000, total unique professors: 355
+2025-07-06 17:37:41,686 - utils - INFO - Scrolled to 56000, total unique professors: 361
+2025-07-06 17:37:43,515 - utils - INFO - Scrolled to 57000, total unique professors: 368
+2025-07-06 17:37:45,436 - utils - INFO - Scrolled to 58000, total unique professors: 374
+2025-07-06 17:37:47,260 - utils - INFO - Scrolled to 59000, total unique professors: 380
+2025-07-06 17:37:49,131 - utils - INFO - Scrolled to 60000, total unique professors: 386
+2025-07-06 17:37:50,990 - utils - INFO - Scrolled to 61000, total unique professors: 393
+2025-07-06 17:37:52,848 - utils - INFO - Scrolled to 62000, total unique professors: 399
+2025-07-06 17:37:54,699 - utils - INFO - Scrolled to 63000, total unique professors: 405
+2025-07-06 17:37:56,568 - utils - INFO - Scrolled to 64000, total unique professors: 411
+2025-07-06 17:37:58,445 - utils - INFO - Scrolled to 65000, total unique professors: 418
+2025-07-06 17:38:00,293 - utils - INFO - Scrolled to 66000, total unique professors: 424
+2025-07-06 17:38:02,159 - utils - INFO - Scrolled to 67000, total unique professors: 430
+2025-07-06 17:38:04,015 - utils - INFO - Scrolled to 68000, total unique professors: 436
+2025-07-06 17:38:05,876 - utils - INFO - Scrolled to 69000, total unique professors: 443
+2025-07-06 17:38:07,703 - utils - INFO - Scrolled to 70000, total unique professors: 449
+2025-07-06 17:38:09,554 - utils - INFO - Scrolled to 71000, total unique professors: 455
+2025-07-06 17:38:11,400 - utils - INFO - Scrolled to 72000, total unique professors: 461
+2025-07-06 17:38:13,250 - utils - INFO - Scrolled to 73000, total unique professors: 468
+2025-07-06 17:38:15,115 - utils - INFO - Scrolled to 74000, total unique professors: 474
+2025-07-06 17:38:17,002 - utils - INFO - Scrolled to 75000, total unique professors: 480
+2025-07-06 17:38:18,890 - utils - INFO - Scrolled to 76000, total unique professors: 486
+2025-07-06 17:38:20,770 - utils - INFO - Scrolled to 77000, total unique professors: 493
+2025-07-06 17:38:22,606 - utils - INFO - Scrolled to 78000, total unique professors: 499
+2025-07-06 17:38:24,481 - utils - INFO - Scrolled to 79000, total unique professors: 505
+2025-07-06 17:38:26,334 - utils - INFO - Scrolled to 80000, total unique professors: 511
+2025-07-06 17:38:28,162 - utils - INFO - Scrolled to 81000, total unique professors: 518
+2025-07-06 17:38:30,000 - utils - INFO - Scrolled to 82000, total unique professors: 524
+2025-07-06 17:38:31,834 - utils - INFO - Scrolled to 83000, total unique professors: 530
+2025-07-06 17:38:33,702 - utils - INFO - Scrolled to 84000, total unique professors: 536
+2025-07-06 17:38:35,595 - utils - INFO - Scrolled to 85000, total unique professors: 543
+2025-07-06 17:38:41,607 - utils - INFO - Scrolled to 86000, total unique professors: 549
+2025-07-06 17:38:47,578 - utils - INFO - Scrolled to 87000, total unique professors: 555
+2025-07-06 17:38:53,477 - utils - INFO - Scrolled to 88000, total unique professors: 561
+2025-07-06 17:38:58,086 - utils - INFO - Scrolled to 89000, total unique professors: 568
+2025-07-06 17:39:02,016 - utils - INFO - Scrolled to 90000, total unique professors: 574
+2025-07-06 17:39:06,286 - utils - INFO - Scrolled to 91000, total unique professors: 580
+2025-07-06 17:39:09,781 - utils - INFO - Scrolled to 92000, total unique professors: 586
+2025-07-06 17:39:13,145 - utils - INFO - Scrolled to 93000, total unique professors: 593
+2025-07-06 17:39:18,556 - utils - INFO - Scrolled to 94000, total unique professors: 599
+2025-07-06 17:39:22,057 - utils - INFO - Scrolled to 95000, total unique professors: 605
+2025-07-06 17:39:25,775 - utils - INFO - Scrolled to 96000, total unique professors: 611
+2025-07-06 17:39:29,165 - utils - INFO - Scrolled to 97000, total unique professors: 618
+2025-07-06 17:39:32,968 - utils - INFO - Scrolled to 98000, total unique professors: 624
+2025-07-06 17:39:35,347 - utils - INFO - Scrolled to 99000, total unique professors: 630
+2025-07-06 17:39:37,353 - utils - INFO - Scrolled to 100000, total unique professors: 636
+2025-07-06 17:39:39,282 - utils - INFO - Scrolled to 101000, total unique professors: 643
+2025-07-06 17:39:41,102 - utils - INFO - Scrolled to 102000, total unique professors: 649
+2025-07-06 17:39:42,950 - utils - INFO - Scrolled to 103000, total unique professors: 655
+2025-07-06 17:39:44,983 - utils - INFO - Scrolled to 104000, total unique professors: 661
+2025-07-06 17:39:46,862 - utils - INFO - Scrolled to 105000, total unique professors: 668
+2025-07-06 17:39:48,708 - utils - INFO - Scrolled to 106000, total unique professors: 674
+2025-07-06 17:39:50,554 - utils - INFO - Scrolled to 107000, total unique professors: 680
+2025-07-06 17:39:52,376 - utils - INFO - Scrolled to 108000, total unique professors: 686
+2025-07-06 17:39:54,229 - utils - INFO - Scrolled to 109000, total unique professors: 693
+2025-07-06 17:39:56,093 - utils - INFO - Scrolled to 110000, total unique professors: 699
+2025-07-06 17:39:57,945 - utils - INFO - Scrolled to 111000, total unique professors: 705
+2025-07-06 17:39:59,799 - utils - INFO - Scrolled to 112000, total unique professors: 711
+2025-07-06 17:40:01,658 - utils - INFO - Scrolled to 113000, total unique professors: 718
+2025-07-06 17:40:03,500 - utils - INFO - Scrolled to 114000, total unique professors: 724
+2025-07-06 17:40:05,353 - utils - INFO - Scrolled to 115000, total unique professors: 730
+2025-07-06 17:40:07,196 - utils - INFO - Scrolled to 116000, total unique professors: 736
+2025-07-06 17:40:09,042 - utils - INFO - Scrolled to 117000, total unique professors: 743
+2025-07-06 17:40:10,909 - utils - INFO - Scrolled to 118000, total unique professors: 749
+2025-07-06 17:40:12,753 - utils - INFO - Scrolled to 119000, total unique professors: 755
+2025-07-06 17:40:14,606 - utils - INFO - Scrolled to 120000, total unique professors: 761
+2025-07-06 17:40:16,449 - utils - INFO - Scrolled to 121000, total unique professors: 768
+2025-07-06 17:40:18,290 - utils - INFO - Scrolled to 122000, total unique professors: 774
+2025-07-06 17:40:20,134 - utils - INFO - Scrolled to 123000, total unique professors: 780
+2025-07-06 17:40:21,988 - utils - INFO - Scrolled to 124000, total unique professors: 786
+2025-07-06 17:40:23,820 - utils - INFO - Scrolled to 125000, total unique professors: 793
+2025-07-06 17:40:25,677 - utils - INFO - Scrolled to 126000, total unique professors: 799
+2025-07-06 17:40:27,517 - utils - INFO - Scrolled to 127000, total unique professors: 805
+2025-07-06 17:40:29,385 - utils - INFO - Scrolled to 128000, total unique professors: 811
+2025-07-06 17:40:31,222 - utils - INFO - Scrolled to 129000, total unique professors: 818
+2025-07-06 17:40:33,087 - utils - INFO - Scrolled to 130000, total unique professors: 824
+2025-07-06 17:40:34,925 - utils - INFO - Scrolled to 131000, total unique professors: 830
+2025-07-06 17:40:36,754 - utils - INFO - Scrolled to 132000, total unique professors: 836
+2025-07-06 17:40:38,620 - utils - INFO - Scrolled to 133000, total unique professors: 843
+2025-07-06 17:40:40,450 - utils - INFO - Scrolled to 134000, total unique professors: 849
+2025-07-06 17:40:42,293 - utils - INFO - Scrolled to 135000, total unique professors: 855
+2025-07-06 17:40:44,133 - utils - INFO - Scrolled to 136000, total unique professors: 861
+2025-07-06 17:40:46,008 - utils - INFO - Scrolled to 137000, total unique professors: 868
+2025-07-06 17:40:47,843 - utils - INFO - Scrolled to 138000, total unique professors: 874
+2025-07-06 17:40:49,706 - utils - INFO - Scrolled to 139000, total unique professors: 880
+2025-07-06 17:40:51,554 - utils - INFO - Scrolled to 140000, total unique professors: 886
+2025-07-06 17:40:53,400 - utils - INFO - Scrolled to 141000, total unique professors: 893
+2025-07-06 17:40:55,254 - utils - INFO - Scrolled to 142000, total unique professors: 899
+2025-07-06 17:40:57,087 - utils - INFO - Scrolled to 143000, total unique professors: 905
+2025-07-06 17:40:58,933 - utils - INFO - Scrolled to 144000, total unique professors: 911
+2025-07-06 17:41:00,786 - utils - INFO - Scrolled to 145000, total unique professors: 918
+2025-07-06 17:41:02,620 - utils - INFO - Scrolled to 146000, total unique professors: 924
+2025-07-06 17:41:04,478 - utils - INFO - Scrolled to 147000, total unique professors: 930
+2025-07-06 17:41:06,305 - utils - INFO - Scrolled to 148000, total unique professors: 936
+2025-07-06 17:41:08,136 - utils - INFO - Scrolled to 149000, total unique professors: 943
+2025-07-06 17:41:09,998 - utils - INFO - Scrolled to 150000, total unique professors: 949
+2025-07-06 17:41:11,818 - utils - INFO - Scrolled to 151000, total unique professors: 955
+2025-07-06 17:41:13,662 - utils - INFO - Scrolled to 152000, total unique professors: 961
+2025-07-06 17:41:15,503 - utils - INFO - Scrolled to 153000, total unique professors: 968
+2025-07-06 17:41:17,363 - utils - INFO - Scrolled to 154000, total unique professors: 974
+2025-07-06 17:41:19,205 - utils - INFO - Scrolled to 155000, total unique professors: 980
+2025-07-06 17:41:21,051 - utils - INFO - Scrolled to 156000, total unique professors: 986
+2025-07-06 17:41:22,896 - utils - INFO - Scrolled to 157000, total unique professors: 993
+2025-07-06 17:41:24,762 - utils - INFO - Scrolled to 158000, total unique professors: 999
+2025-07-06 17:41:26,612 - utils - INFO - Scrolled to 159000, total unique professors: 1005
+2025-07-06 17:41:28,455 - utils - INFO - Scrolled to 160000, total unique professors: 1011
+2025-07-06 17:41:30,288 - utils - INFO - Scrolled to 161000, total unique professors: 1018
+2025-07-06 17:41:32,148 - utils - INFO - Scrolled to 162000, total unique professors: 1024
+2025-07-06 17:41:33,994 - utils - INFO - Scrolled to 163000, total unique professors: 1030
+2025-07-06 17:41:35,839 - utils - INFO - Scrolled to 164000, total unique professors: 1036
+2025-07-06 17:41:37,686 - utils - INFO - Scrolled to 165000, total unique professors: 1043
+2025-07-06 17:41:39,532 - utils - INFO - Scrolled to 166000, total unique professors: 1049
+2025-07-06 17:41:41,404 - utils - INFO - Scrolled to 167000, total unique professors: 1055
+2025-07-06 17:41:43,235 - utils - INFO - Scrolled to 168000, total unique professors: 1061
+2025-07-06 17:41:45,074 - utils - INFO - Scrolled to 169000, total unique professors: 1068
+2025-07-06 17:41:46,909 - utils - INFO - Scrolled to 170000, total unique professors: 1074
+2025-07-06 17:41:48,776 - utils - INFO - Scrolled to 171000, total unique professors: 1080
+2025-07-06 17:41:50,621 - utils - INFO - Scrolled to 172000, total unique professors: 1086
+2025-07-06 17:41:52,474 - utils - INFO - Scrolled to 173000, total unique professors: 1093
+2025-07-06 17:41:54,301 - utils - INFO - Scrolled to 174000, total unique professors: 1099
+2025-07-06 17:41:56,177 - utils - INFO - Scrolled to 175000, total unique professors: 1105
+2025-07-06 17:41:57,987 - utils - INFO - Scrolled to 176000, total unique professors: 1111
+2025-07-06 17:41:59,855 - utils - INFO - Scrolled to 177000, total unique professors: 1118
+2025-07-06 17:42:01,682 - utils - INFO - Scrolled to 178000, total unique professors: 1124
+2025-07-06 17:42:03,559 - utils - INFO - Scrolled to 179000, total unique professors: 1130
+2025-07-06 17:42:05,416 - utils - INFO - Scrolled to 180000, total unique professors: 1136
+2025-07-06 17:42:07,284 - utils - INFO - Scrolled to 181000, total unique professors: 1143
+2025-07-06 17:42:09,139 - utils - INFO - Scrolled to 182000, total unique professors: 1149
+2025-07-06 17:42:10,976 - utils - INFO - Scrolled to 183000, total unique professors: 1155
+2025-07-06 17:42:12,828 - utils - INFO - Scrolled to 184000, total unique professors: 1161
+2025-07-06 17:42:14,681 - utils - INFO - Scrolled to 185000, total unique professors: 1168
+2025-07-06 17:42:16,538 - utils - INFO - Scrolled to 186000, total unique professors: 1174
+2025-07-06 17:42:18,355 - utils - INFO - Scrolled to 187000, total unique professors: 1180
+2025-07-06 17:42:20,248 - utils - INFO - Scrolled to 188000, total unique professors: 1186
+2025-07-06 17:42:22,082 - utils - INFO - Scrolled to 189000, total unique professors: 1193
+2025-07-06 17:42:23,931 - utils - INFO - Scrolled to 190000, total unique professors: 1199
+2025-07-06 17:42:25,761 - utils - INFO - Scrolled to 191000, total unique professors: 1205
+2025-07-06 17:42:27,604 - utils - INFO - Scrolled to 192000, total unique professors: 1211
+2025-07-06 17:42:29,445 - utils - INFO - Scrolled to 193000, total unique professors: 1218
+2025-07-06 17:42:31,286 - utils - INFO - Scrolled to 194000, total unique professors: 1224
+2025-07-06 17:42:33,144 - utils - INFO - Scrolled to 195000, total unique professors: 1230
+2025-07-06 17:42:35,019 - utils - INFO - Scrolled to 196000, total unique professors: 1236
+2025-07-06 17:42:36,853 - utils - INFO - Scrolled to 197000, total unique professors: 1243
+2025-07-06 17:42:38,694 - utils - INFO - Scrolled to 198000, total unique professors: 1249
+2025-07-06 17:42:40,540 - utils - INFO - Scrolled to 199000, total unique professors: 1255
+2025-07-06 17:42:42,382 - utils - INFO - Scrolled to 200000, total unique professors: 1261
+2025-07-06 17:42:44,409 - utils - INFO - Scrolled to 201000, total unique professors: 1268
+2025-07-06 17:42:46,311 - utils - INFO - Scrolled to 202000, total unique professors: 1274
+2025-07-06 17:42:48,169 - utils - INFO - Scrolled to 203000, total unique professors: 1280
+2025-07-06 17:42:50,004 - utils - INFO - Scrolled to 204000, total unique professors: 1286
+2025-07-06 17:42:51,864 - utils - INFO - Scrolled to 205000, total unique professors: 1293
+2025-07-06 17:42:53,709 - utils - INFO - Scrolled to 206000, total unique professors: 1299
+2025-07-06 17:42:55,579 - utils - INFO - Scrolled to 207000, total unique professors: 1305
+2025-07-06 17:42:57,421 - utils - INFO - Scrolled to 208000, total unique professors: 1311
+2025-07-06 17:42:59,272 - utils - INFO - Scrolled to 209000, total unique professors: 1318
+2025-07-06 17:43:01,121 - utils - INFO - Scrolled to 210000, total unique professors: 1324
+2025-07-06 17:43:02,976 - utils - INFO - Scrolled to 211000, total unique professors: 1330
+2025-07-06 17:43:04,795 - utils - INFO - Scrolled to 212000, total unique professors: 1336
+2025-07-06 17:43:06,639 - utils - INFO - Scrolled to 213000, total unique professors: 1343
+2025-07-06 17:43:08,477 - utils - INFO - Scrolled to 214000, total unique professors: 1349
+2025-07-06 17:43:10,326 - utils - INFO - Scrolled to 215000, total unique professors: 1355
+2025-07-06 17:43:12,172 - utils - INFO - Scrolled to 216000, total unique professors: 1361
+2025-07-06 17:43:14,022 - utils - INFO - Scrolled to 217000, total unique professors: 1368
+2025-07-06 17:43:15,887 - utils - INFO - Scrolled to 218000, total unique professors: 1374
+2025-07-06 17:43:17,746 - utils - INFO - Scrolled to 219000, total unique professors: 1380
+2025-07-06 17:43:19,610 - utils - INFO - Scrolled to 220000, total unique professors: 1386
+2025-07-06 17:43:21,439 - utils - INFO - Scrolled to 221000, total unique professors: 1393
+2025-07-06 17:43:23,286 - utils - INFO - Scrolled to 222000, total unique professors: 1399
+2025-07-06 17:43:25,095 - utils - INFO - Scrolled to 223000, total unique professors: 1405
+2025-07-06 17:43:26,952 - utils - INFO - Scrolled to 224000, total unique professors: 1411
+2025-07-06 17:43:28,844 - utils - INFO - Scrolled to 225000, total unique professors: 1418
+2025-07-06 17:43:30,716 - utils - INFO - Scrolled to 226000, total unique professors: 1424
+2025-07-06 17:43:32,553 - utils - INFO - Scrolled to 227000, total unique professors: 1430
+2025-07-06 17:43:34,455 - utils - INFO - Scrolled to 228000, total unique professors: 1436
+2025-07-06 17:43:36,295 - utils - INFO - Scrolled to 229000, total unique professors: 1443
+2025-07-06 17:43:38,120 - utils - INFO - Scrolled to 230000, total unique professors: 1449
+2025-07-06 17:43:40,002 - utils - INFO - Scrolled to 231000, total unique professors: 1455
+2025-07-06 17:43:41,830 - utils - INFO - Scrolled to 232000, total unique professors: 1461
+2025-07-06 17:43:43,686 - utils - INFO - Scrolled to 233000, total unique professors: 1468
+2025-07-06 17:43:45,532 - utils - INFO - Scrolled to 234000, total unique professors: 1474
+2025-07-06 17:43:47,649 - utils - INFO - Scrolled to 235000, total unique professors: 1480
+2025-07-06 17:43:49,469 - utils - INFO - Scrolled to 236000, total unique professors: 1486
+2025-07-06 17:43:51,326 - utils - INFO - Scrolled to 237000, total unique professors: 1493
+2025-07-06 17:43:53,158 - utils - INFO - Scrolled to 238000, total unique professors: 1499
+2025-07-06 17:43:54,987 - utils - INFO - Scrolled to 239000, total unique professors: 1505
+2025-07-06 17:43:56,762 - utils - INFO - Scrolled to 240000, total unique professors: 1511
+2025-07-06 17:43:58,527 - utils - INFO - Scrolled to 241000, total unique professors: 1518
+2025-07-06 17:44:00,276 - utils - INFO - Scrolled to 242000, total unique professors: 1524
+2025-07-06 17:44:02,100 - utils - INFO - Scrolled to 243000, total unique professors: 1530
+2025-07-06 17:44:03,924 - utils - INFO - Scrolled to 244000, total unique professors: 1536
+2025-07-06 17:44:05,721 - utils - INFO - Scrolled to 245000, total unique professors: 1543
+2025-07-06 17:44:07,523 - utils - INFO - Scrolled to 246000, total unique professors: 1549
+2025-07-06 17:44:09,348 - utils - INFO - Scrolled to 247000, total unique professors: 1555
+2025-07-06 17:44:11,185 - utils - INFO - Scrolled to 248000, total unique professors: 1561
+2025-07-06 17:44:13,022 - utils - INFO - Scrolled to 249000, total unique professors: 1568
+2025-07-06 17:44:14,843 - utils - INFO - Scrolled to 250000, total unique professors: 1574
+2025-07-06 17:44:16,681 - utils - INFO - Scrolled to 251000, total unique professors: 1580
+2025-07-06 17:44:18,538 - utils - INFO - Scrolled to 252000, total unique professors: 1586
+2025-07-06 17:44:20,371 - utils - INFO - Scrolled to 253000, total unique professors: 1593
+2025-07-06 17:44:22,193 - utils - INFO - Scrolled to 254000, total unique professors: 1599
+2025-07-06 17:44:23,966 - utils - INFO - Scrolled to 255000, total unique professors: 1605
+2025-07-06 17:44:25,757 - utils - INFO - Scrolled to 256000, total unique professors: 1611
+2025-07-06 17:44:27,540 - utils - INFO - Scrolled to 257000, total unique professors: 1618
+2025-07-06 17:44:29,363 - utils - INFO - Scrolled to 258000, total unique professors: 1624
+2025-07-06 17:44:31,155 - utils - INFO - Scrolled to 259000, total unique professors: 1630
+2025-07-06 17:44:32,968 - utils - INFO - Scrolled to 260000, total unique professors: 1636
+2025-07-06 17:44:34,735 - utils - INFO - Scrolled to 261000, total unique professors: 1643
+2025-07-06 17:44:36,500 - utils - INFO - Scrolled to 262000, total unique professors: 1649
+2025-07-06 17:44:38,334 - utils - INFO - Scrolled to 263000, total unique professors: 1655
+2025-07-06 17:44:40,135 - utils - INFO - Scrolled to 264000, total unique professors: 1661
+2025-07-06 17:44:41,975 - utils - INFO - Scrolled to 265000, total unique professors: 1668
+2025-07-06 17:44:43,761 - utils - INFO - Scrolled to 266000, total unique professors: 1674
+2025-07-06 17:44:45,560 - utils - INFO - Scrolled to 267000, total unique professors: 1680
+2025-07-06 17:44:47,358 - utils - INFO - Scrolled to 268000, total unique professors: 1686
+2025-07-06 17:44:49,216 - utils - INFO - Scrolled to 269000, total unique professors: 1693
+2025-07-06 17:44:51,053 - utils - INFO - Scrolled to 270000, total unique professors: 1699
+2025-07-06 17:44:52,862 - utils - INFO - Scrolled to 271000, total unique professors: 1705
+2025-07-06 17:44:54,646 - utils - INFO - Scrolled to 272000, total unique professors: 1711
+2025-07-06 17:44:56,488 - utils - INFO - Scrolled to 273000, total unique professors: 1718
+2025-07-06 17:44:58,283 - utils - INFO - Scrolled to 274000, total unique professors: 1724
+2025-07-06 17:45:00,135 - utils - INFO - Scrolled to 275000, total unique professors: 1730
+2025-07-06 17:45:01,977 - utils - INFO - Scrolled to 276000, total unique professors: 1736
+2025-07-06 17:45:03,840 - utils - INFO - Scrolled to 277000, total unique professors: 1743
+2025-07-06 17:45:05,649 - utils - INFO - Scrolled to 278000, total unique professors: 1749
+2025-07-06 17:45:07,421 - utils - INFO - Scrolled to 279000, total unique professors: 1755
+2025-07-06 17:45:09,213 - utils - INFO - Scrolled to 280000, total unique professors: 1761
+2025-07-06 17:45:10,994 - utils - INFO - Scrolled to 281000, total unique professors: 1768
+2025-07-06 17:45:12,828 - utils - INFO - Scrolled to 282000, total unique professors: 1774
+2025-07-06 17:45:14,640 - utils - INFO - Scrolled to 283000, total unique professors: 1780
+2025-07-06 17:45:16,485 - utils - INFO - Scrolled to 284000, total unique professors: 1786
+2025-07-06 17:45:18,310 - utils - INFO - Scrolled to 285000, total unique professors: 1793
+2025-07-06 17:45:20,196 - utils - INFO - Scrolled to 286000, total unique professors: 1799
+2025-07-06 17:45:22,020 - utils - INFO - Scrolled to 287000, total unique professors: 1805
+2025-07-06 17:45:23,867 - utils - INFO - Scrolled to 288000, total unique professors: 1811
+2025-07-06 17:45:25,687 - utils - INFO - Scrolled to 289000, total unique professors: 1818
+2025-07-06 17:45:27,555 - utils - INFO - Scrolled to 290000, total unique professors: 1824
+2025-07-06 17:45:29,377 - utils - INFO - Scrolled to 291000, total unique professors: 1830
+2025-07-06 17:45:31,235 - utils - INFO - Scrolled to 292000, total unique professors: 1836
+2025-07-06 17:45:33,045 - utils - INFO - Scrolled to 293000, total unique professors: 1843
+2025-07-06 17:45:34,898 - utils - INFO - Scrolled to 294000, total unique professors: 1849
+2025-07-06 17:45:36,760 - utils - INFO - Scrolled to 295000, total unique professors: 1855
+2025-07-06 17:45:38,588 - utils - INFO - Scrolled to 296000, total unique professors: 1861
+2025-07-06 17:45:40,608 - utils - INFO - Scrolled to 297000, total unique professors: 1868
+2025-07-06 17:45:42,411 - utils - INFO - Scrolled to 298000, total unique professors: 1874
+2025-07-06 17:45:44,277 - utils - INFO - Scrolled to 299000, total unique professors: 1880
+2025-07-06 17:45:46,139 - utils - INFO - Scrolled to 300000, total unique professors: 1886
+2025-07-06 17:45:48,007 - utils - INFO - Scrolled to 301000, total unique professors: 1893
+2025-07-06 17:45:49,840 - utils - INFO - Scrolled to 302000, total unique professors: 1899
+2025-07-06 17:45:51,695 - utils - INFO - Scrolled to 303000, total unique professors: 1905
+2025-07-06 17:45:53,534 - utils - INFO - Scrolled to 304000, total unique professors: 1911
+2025-07-06 17:45:55,401 - utils - INFO - Scrolled to 305000, total unique professors: 1918
+2025-07-06 17:45:57,234 - utils - INFO - Scrolled to 306000, total unique professors: 1924
+2025-07-06 17:45:59,082 - utils - INFO - Scrolled to 307000, total unique professors: 1930
+2025-07-06 17:46:00,920 - utils - INFO - Scrolled to 308000, total unique professors: 1936
+2025-07-06 17:46:02,780 - utils - INFO - Scrolled to 309000, total unique professors: 1943
+2025-07-06 17:46:04,602 - utils - INFO - Scrolled to 310000, total unique professors: 1949
+2025-07-06 17:46:06,441 - utils - INFO - Scrolled to 311000, total unique professors: 1955
+2025-07-06 17:46:08,271 - utils - INFO - Scrolled to 312000, total unique professors: 1961
+2025-07-06 17:46:10,079 - utils - INFO - Scrolled to 313000, total unique professors: 1968
+2025-07-06 17:46:11,933 - utils - INFO - Scrolled to 314000, total unique professors: 1974
+2025-07-06 17:46:13,772 - utils - INFO - Scrolled to 315000, total unique professors: 1980
+2025-07-06 17:46:15,626 - utils - INFO - Scrolled to 316000, total unique professors: 1986
+2025-07-06 17:46:17,441 - utils - INFO - Scrolled to 317000, total unique professors: 1993
+2025-07-06 17:46:19,255 - utils - INFO - Scrolled to 318000, total unique professors: 1999
+2025-07-06 17:46:21,070 - utils - INFO - Scrolled to 319000, total unique professors: 2005
+2025-07-06 17:46:23,024 - utils - INFO - Scrolled to 320000, total unique professors: 2011
+2025-07-06 17:46:24,868 - utils - INFO - Scrolled to 321000, total unique professors: 2018
+2025-07-06 17:46:26,770 - utils - INFO - Scrolled to 322000, total unique professors: 2024
+2025-07-06 17:46:28,612 - utils - INFO - Scrolled to 323000, total unique professors: 2030
+2025-07-06 17:46:30,475 - utils - INFO - Scrolled to 324000, total unique professors: 2036
+2025-07-06 17:46:32,362 - utils - INFO - Scrolled to 325000, total unique professors: 2043
+2025-07-06 17:46:34,165 - utils - INFO - Scrolled to 326000, total unique professors: 2049
+2025-07-06 17:46:35,930 - utils - INFO - Scrolled to 327000, total unique professors: 2055
+2025-07-06 17:46:37,728 - utils - INFO - Scrolled to 328000, total unique professors: 2061
+2025-07-06 17:46:39,557 - utils - INFO - Scrolled to 329000, total unique professors: 2068
+2025-07-06 17:46:41,349 - utils - INFO - Scrolled to 330000, total unique professors: 2074
+2025-07-06 17:46:43,201 - utils - INFO - Scrolled to 331000, total unique professors: 2080
+2025-07-06 17:46:45,035 - utils - INFO - Scrolled to 332000, total unique professors: 2086
+2025-07-06 17:46:46,877 - utils - INFO - Scrolled to 333000, total unique professors: 2093
+2025-07-06 17:46:48,735 - utils - INFO - Scrolled to 334000, total unique professors: 2099
+2025-07-06 17:46:50,686 - utils - INFO - Scrolled to 335000, total unique professors: 2105
+2025-07-06 17:46:52,509 - utils - INFO - Scrolled to 336000, total unique professors: 2111
+2025-07-06 17:46:54,377 - utils - INFO - Scrolled to 337000, total unique professors: 2118
+2025-07-06 17:46:56,208 - utils - INFO - Scrolled to 338000, total unique professors: 2124
+2025-07-06 17:46:58,064 - utils - INFO - Scrolled to 339000, total unique professors: 2130
+2025-07-06 17:46:59,917 - utils - INFO - Scrolled to 340000, total unique professors: 2136
+2025-07-06 17:47:01,776 - utils - INFO - Scrolled to 341000, total unique professors: 2143
+2025-07-06 17:47:03,614 - utils - INFO - Scrolled to 342000, total unique professors: 2149
+2025-07-06 17:47:05,450 - utils - INFO - Scrolled to 343000, total unique professors: 2155
+2025-07-06 17:47:07,301 - utils - INFO - Scrolled to 344000, total unique professors: 2161
+2025-07-06 17:47:09,140 - utils - INFO - Scrolled to 345000, total unique professors: 2168
+2025-07-06 17:47:10,999 - utils - INFO - Scrolled to 346000, total unique professors: 2174
+2025-07-06 17:47:12,825 - utils - INFO - Scrolled to 347000, total unique professors: 2180
+2025-07-06 17:47:14,697 - utils - INFO - Scrolled to 348000, total unique professors: 2186
+2025-07-06 17:47:16,511 - utils - INFO - Scrolled to 349000, total unique professors: 2186
+2025-07-06 17:47:18,342 - utils - INFO - Fine-grained scroll finished. Collected 2186 unique professors.
+2025-07-06 17:47:18,342 - utils - INFO - Extracted 2186 raw professor cards from DOM.
+2025-07-06 17:47:18,495 - utils - INFO - Deduplicated to 2186 unique professor cards.
+2025-07-06 17:47:20,791 - utils - INFO - Validated 2186 professor entries.
+2025-07-06 17:47:20,843 - utils - INFO - Saved 2186 professors to /Users/sahilgoel/Code/Personal/PolyRatings/polyratings/professors.json

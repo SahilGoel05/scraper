@@ -1,0 +1,58 @@
+name: Continuous Integration and Deployment
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+      - beta
+
+env:
+  NX_BRANCH: ${{ github.event.number || github.ref_name }}
+  NX_CLOUD_ACCESS_TOKEN: ${{ secrets.NX_CLOUD_ACCESS_TOKEN }}
+
+jobs:
+  Integration_And_Deployment:
+    runs-on: ubuntu-latest
+    env:
+      OUTSIDE_CONTRIB: ${{ secrets.CF_API_TOKEN == '' }}
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint packages
+        run: npm run lint
+
+      - name: Build Packages
+        run: npm run build
+
+      - name: Test Packages
+        run: npm run test
+
+      - name: Deploy Prod
+        if: github.ref == 'refs/heads/master'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: NX_CLOUD_DISTRIBUTED_EXECUTION=false npm run deploy:prod
+
+      - name: Deploy Beta
+        if: github.ref == 'refs/heads/beta'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: NX_CLOUD_DISTRIBUTED_EXECUTION=false npm run deploy:beta
+
+      # We will deploy to dev so that cloudflare preview urls will point to the backend
+      # This will be a problem with multiple PRs, but hey we at least tried :)
+      - name: Deploy Dev
+        if: github.ref != 'refs/heads/beta' && github.ref != 'refs/heads/master' && ${{ env.OUTSIDE_CONTRIB == 'false' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: NX_CLOUD_DISTRIBUTED_EXECUTION=false npm run deploy:dev
