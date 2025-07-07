@@ -14,7 +14,7 @@ class ScraperConfig:
     
     # Output settings
     OUTPUT_FILE = "professors.json"
-    OUTPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), OUTPUT_FILE)
+    OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "data", OUTPUT_FILE)
     
     # Request settings
     REQUEST_TIMEOUT = 30

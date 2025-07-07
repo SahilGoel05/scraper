@@ -2,10 +2,19 @@ name: Automated PolyRatings Scraper
 
 on:
   schedule:
-    # Run every day at 2 AM UTC
-    - cron: '0 2 * * *'
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
+  push:
+    # Run when changes are pushed to main branch
+    branches:
+      - main
   workflow_dispatch:
     # Allow manual triggering
+
+# Add concurrency to prevent multiple jobs running simultaneously
+concurrency:
+  group: scraper-job
+  cancel-in-progress: true
 
 jobs:
   scrape:
@@ -27,6 +36,11 @@ jobs:
         cd scraper
         pip install -r requirements.txt
     
+    - name: Create data directory
+      run: |
+        cd scraper
+        mkdir -p data
+    
     - name: Run scraper
       run: |
         cd scraper
@@ -47,5 +61,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add scraper/data/
+        git add scraper/scraper.log
         git commit -m "🤖 Automated scraper update - $(date -u +'%Y-%m-%d %H:%M UTC')"
         git push 
